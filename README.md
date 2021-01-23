@@ -1,4 +1,4 @@
-# RobotDyn Documentation
+# RobotDyn 4x4 KEYPAD
 
-Please see our [WIKI](https://github.com/RobotDyn/Documentation/wiki)
+RobotDyn's [WIKI](https://github.com/RobotDyn/Documentation/wiki)
 
